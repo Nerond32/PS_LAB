@@ -1,0 +1,6 @@
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-5\bin\Debug\PS1_l4-5.exe.config
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-5\bin\Debug\PS1_l4-5.exe
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-5\bin\Debug\PS1_l4-5.pdb
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-5\obj\Debug\PS1_l4-5.csprojResolveAssemblyReference.cache
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-5\obj\Debug\PS1_l4-5.exe
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-5\obj\Debug\PS1_l4-5.pdb

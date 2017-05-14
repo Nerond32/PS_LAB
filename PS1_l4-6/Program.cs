@@ -15,12 +15,12 @@ namespace PS1_l4_6
         private static object o = new object();
         //This delegate can be used to point to methods
         //which return void and take a string.
-        public delegate void MyEventHandler();
+        public delegate void MyEventHandler(object sender, EventArgs e);
 
         //This event can cause any method which conforms
         //to MyEventHandler to be called.
         public event MyEventHandler SomethingHappened;
-        void HandleSomethingHappened()
+        void HandleSomethingHappened(object sender, EventArgs e)
         {
             //Do some stuff
         }

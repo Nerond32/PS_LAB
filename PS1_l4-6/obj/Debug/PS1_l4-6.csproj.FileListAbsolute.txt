@@ -1,0 +1,5 @@
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-6\bin\Debug\PS1_l4_6.exe.config
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-6\bin\Debug\PS1_l4_6.exe
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-6\bin\Debug\PS1_l4_6.pdb
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-6\obj\Debug\PS1_l4_6.exe
+D:\workspace\Visual Studio\PS_LAB\PS1_l4-6\obj\Debug\PS1_l4_6.pdb
