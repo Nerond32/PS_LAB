@@ -1,0 +1,6 @@
+C:\Users\student.CARBON\Documents\Visual Studio 2015\Projects\PS_LAB\PS1_l6\bin\Debug\PS1_l6.exe.config
+C:\Users\student.CARBON\Documents\Visual Studio 2015\Projects\PS_LAB\PS1_l6\bin\Debug\PS1_l6.exe
+C:\Users\student.CARBON\Documents\Visual Studio 2015\Projects\PS_LAB\PS1_l6\bin\Debug\PS1_l6.pdb
+C:\Users\student.CARBON\Documents\Visual Studio 2015\Projects\PS_LAB\PS1_l6\obj\Debug\PS1_l6S.csprojResolveAssemblyReference.cache
+C:\Users\student.CARBON\Documents\Visual Studio 2015\Projects\PS_LAB\PS1_l6\obj\Debug\PS1_l6.exe
+C:\Users\student.CARBON\Documents\Visual Studio 2015\Projects\PS_LAB\PS1_l6\obj\Debug\PS1_l6.pdb
